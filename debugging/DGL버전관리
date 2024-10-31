@@ -1,0 +1,6 @@
+# dgl = 0.4.3 버전 : python 3.5 3.6 3.7 만 호환
+# cuda = 12.4 일때 -> pytorch downgrade 12.1 로
+
+'''
+conda install pytorch==2.5.0  pytorch-cuda=12.1 -c pytorch -c nvidia
+'''
